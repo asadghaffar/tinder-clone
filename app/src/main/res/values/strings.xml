@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Winki Swipe</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="login">Login</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gps_network_not_enabled">Location services not enabled</string>
+    <string name="open_location_settings">Open location services</string>
+    <string name="Cancel">Cancel</string>
+    <string name="messages">Messages</string>
+    <string name="new_matches">New Matches</string>
+    <string name="no_matches_to_show">No matches to show</string>
+    <string name="no_chats_to_show">No chats to show</string>
+    <string name="message">message…</string>
+    <string name="gender">Gender</string>
+    <string name="add_job">Add Job</string>
+    <string name="job">Job</string>
+    <string name="add_age">Add Age</string>
+    <string name="age">Age</string>
+    <string name="add_phone">Add Phone</string>
+    <string name="phone">Phone</string>
+    <string name="add_about">Add About</string>
+    <string name="about">About</string>
+    <string name="add_name">Add Name</string>
+    <string name="name">Name</string>
+    <string name="interested_in">Interested In</string>
+    <string name="search_distance">Search Distance</string>
+    <string name="logout">LogOut</string>
+    <string name="profile_image">profile image</string>
+    <string name="no_more_people_to_show">No more People to show…</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="edit">edit</string>
+    <string name="settings">settings</string>
+    <string name="chat_s_name">Chat\'s Name</string>
+    <string name="chat_message">Chat Message</string>
+    <string name="match_s_name">Match\'s Name</string>
+    <string name="text">Text</string>
+    <string name="tab">tab</string>
+    <string name="both">Both</string>
+
+    <!-- Tested Ad Mob ID -->
+    <!--<string name="ad_mob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="google_reward">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="google_native">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="google_intersitial">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!-- Original Ad Mob ID -->
+    <string name="ad_mob_app_id">ca-app-pub-4898766895917474~7371095428</string>
+    <string name="google_reward">ca-app-pub-4898766895917474/5278673140</string>
+    <string name="google_native">ca-app-pub-4898766895917474/7179523738</string>
+    <string name="google_intersitial">ca-app-pub-4898766895917474/1726713046</string>
+
+    <!-- FACEBOOK APP ID-->
+    <string name="facebook_app_id"><!--144310467801492--></string>
+    <string name="fb_login_protocol_scheme">fbYOUR FACEBOOK ID</string>
+
+
+</resources>

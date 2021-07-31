@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-share:5.15.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21b45ad1f6c218f6ec9af45683e668a1/jetified-facebook-share-5.15.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21b45ad1f6c218f6ec9af45683e668a1/jetified-facebook-share-5.15.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/21b45ad1f6c218f6ec9af45683e668a1/jetified-facebook-share-5.15.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2f6dfcb481a34fafd2a87b12f29acd/jetified-facebook-share-5.15.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2f6dfcb481a34fafd2a87b12f29acd/jetified-facebook-share-5.15.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2f6dfcb481a34fafd2a87b12f29acd/jetified-facebook-share-5.15.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9fe5fe56e1ce43cba898fbffa3c12b6/jetified-facebook-share-5.15.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9fe5fe56e1ce43cba898fbffa3c12b6/jetified-facebook-share-5.15.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9fe5fe56e1ce43cba898fbffa3c12b6/jetified-facebook-share-5.15.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-share/5.15.3/7eaf24c3456f8b2b9e2e02224c6a2cf14352d65e/facebook-share-5.15.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-share/5.15.3/230894c430382ac12f5b03cbc8187aa1851e5950/facebook-share-5.15.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: io.nlopez.smartlocation:library:3.2.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4210810ed4a69adf1819df29c230f0b/jetified-library-3.2.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4210810ed4a69adf1819df29c230f0b/jetified-library-3.2.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4210810ed4a69adf1819df29c230f0b/jetified-library-3.2.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef8132091af074ed60ac5e8a3bfc9c78/jetified-library-3.2.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef8132091af074ed60ac5e8a3bfc9c78/jetified-library-3.2.9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef8132091af074ed60ac5e8a3bfc9c78/jetified-library-3.2.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/923d06bb04a88428d87feadfab842f13/jetified-library-3.2.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/923d06bb04a88428d87feadfab842f13/jetified-library-3.2.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/923d06bb04a88428d87feadfab842f13/jetified-library-3.2.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

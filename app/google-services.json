@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368620887133",
+    "firebase_url": "https://winki-swipe-default-rtdb.firebaseio.com",
+    "project_id": "winki-swipe",
+    "storage_bucket": "winki-swipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368620887133:android:ded7f265238152e9c5c1b4",
+        "android_client_info": {
+          "package_name": "com.fcodex.winkiswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368620887133-me43ll0gualjhe9pknvutps105q4aeib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUm8yOy06uZOhjQknNLw2QYytlSkDbQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368620887133-me43ll0gualjhe9pknvutps105q4aeib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
